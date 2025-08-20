@@ -1,4 +1,4 @@
-# Hi there, I’m Fritz 👋  
+# Hey, Fritz here . . . 👋  
 
 🚀 **Senior Software Engineer**  
 
