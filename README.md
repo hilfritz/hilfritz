@@ -2,14 +2,14 @@
 
 🚀 **Senior Software Engineer**  
 
-I’m a software engineer with **10+ years of experience** building scalable systems across **Java, Python, Node.js, and SQL/NoSQL databases**. My background spans **startups and multinational companies**, where I’ve created and maintained software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges.  
+Software that loves building scalable systems from building software from scratch to maintaining legacy systems. Background spans **startups and multinational companies**, where I’ve created and maintained software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges.  
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL  
-- **Frameworks & Tools:** Spring Boot, Express, Django, React  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+- **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, DotNet
+- **Frameworks & Tools:** Spring Boot, Kafka, RabbitMq, Android, Django, Flask
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLLite  
 - **Data & Analytics:** Power BI, Tableau, Pandas, NumPy, OR-Tools  
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 
