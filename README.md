@@ -16,6 +16,8 @@ Software that loves building scalable systems from building software from scratc
 ---
 
 ## 📌 Current Focus
+- Code Architectures
+- Machine Learning and Artificial Intelligence
 - Designing **relational databases** and optimization models  
 - Building **data-driven applications** with Python and SQL  
 - Exploring **machine learning for real-world analytics problems**  
