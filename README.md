@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Engineer**  
 
-Software that loves building scalable systems from building software from scratch to maintaining legacy systems. Background spans **startups and multinational companies**, where I’ve created and maintained software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges.  
+Loves building scalable systems from scratch and maintaining legacy systems. Background spans **startups and multinational companies**, where I’ve created and maintained software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges.  
 
 ---
 
