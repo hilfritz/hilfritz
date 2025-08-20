@@ -18,10 +18,10 @@ Loves building scalable systems from scratch and maintaining legacy systems. Bac
 ## 📌 Current Focus
 - Code Architectures
 - Machine Learning and Artificial Intelligence
+- Automating workflows on **macOS with Python & Automator**  
 - Designing **relational databases** and optimization models  
 - Building **data-driven applications** with Python and SQL  
-- Exploring **machine learning for real-world analytics problems**  
-- Automating workflows on **macOS with Python & Automator**  
+
 
 ---
 
