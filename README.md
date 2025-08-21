@@ -1,7 +1,18 @@
-# Hey, Fritz here . . . 👋  
-Loves building Software systems from scratch and maintaining legacy systems. Background spans **startups and multinational companies**, where I’ve created and maintained software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges.  
+<div style="display: flex; align-items: center; justify-content: space-between; max-width: 100%;">
+  <div style="flex: 1;">
+    <h1 style="margin: 0; padding: 0;">Hey, Fritz here 👋</h1>
+  </div>
+  <div style="text-align: right; white-space: nowrap; margin-left: 10px;">
+    <a href="https://www.linkedin.com/in/hilfritzcamallere/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
+    </a>&nbsp;
+    <a href="https://github.com/hilfritz" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" height="28">
+    </a>
+  </div>
+</div>
 
----
+Loves building Software systems from scratch and maintaining legacy systems. Background spans <strong>startups and multinational companies</strong>, where I’ve created and maintained software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges.  
 
 ## 🔧 Tech Stack
 - **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .Net
@@ -10,8 +21,6 @@ Loves building Software systems from scratch and maintaining legacy systems. Bac
 - **Data & Analytics:** Power BI, Tableau, Pandas, NumPy, OR-Tools  
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 
----
-
 ## 📌 Current Focus
 - Code Architectures
 - Machine Learning and Artificial Intelligence
@@ -19,16 +28,11 @@ Loves building Software systems from scratch and maintaining legacy systems. Bac
 - Designing **relational databases** and optimization models  
 - Building **data-driven applications** with Python and SQL  
 
-
----
-
 ## 🌍 Beyond Code
 - Based in **Ontario, Canada** 🇨🇦  
 - Passionate about **mentoring junior developers**  
 - Love solving **system design challenges**  
 - Exploring **AI, optimization, and automation** in my free time  
-
----
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/hilfritzcamallere/)  
