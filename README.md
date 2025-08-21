@@ -1,14 +1,11 @@
 # Hey, Fritz here . . . 👋  
-
-🚀 **Senior Software Engineer**  
-
-Loves building scalable systems from scratch and maintaining legacy systems. Background spans **startups and multinational companies**, where I’ve created and maintained software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges.  
+Loves building Software systems from scratch and maintaining legacy systems. Background spans **startups and multinational companies**, where I’ve created and maintained software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges.  
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, DotNet
-- **Frameworks & Tools:** Spring Boot, Kafka, RabbitMq, Android, Django, Flask
+- **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .Net
+- **Frameworks & Tools:** Spring Boot, Apache Kafka, RabbitMq, Android, Django, Flask
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLLite  
 - **Data & Analytics:** Power BI, Tableau, Pandas, NumPy, OR-Tools  
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
