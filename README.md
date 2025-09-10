@@ -23,7 +23,8 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
 - **Frameworks & Tools:** Spring Boot, Apache Kafka, RabbitMq, Android, Django, Flask
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLLite  
 - **Data & Analytics:** Power BI, Tableau, Pandas, NumPy, OR-Tools  
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions  
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions
+- **Operating Systems & Servers:** Windws, Linux, IBM AIX
 
 ## ðŸ“Œ Current Focus
 
