@@ -11,8 +11,12 @@
     </a>
   </div>
 </div>
+<p>
+IT and Software Professional with 10+ years’ experience in computers, servers, and full-cycle software development. Skilled in programming, data analytics, system/server administration/maintenence, and performance optimization. </p>
 
-Loves building Software systems from scratch and maintaining legacy systems. Background spans <strong>startups and multinational companies</strong>, where I’ve created and maintained software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges.  
+
+<p>
+Background with <strong>startups and multinational companies</strong>, where I’ve created and maintained legacy software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges. </p>
 
 ## 🔧 Tech Stack
 - **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .Net
@@ -22,6 +26,7 @@ Loves building Software systems from scratch and maintaining legacy systems. Bac
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 
 ## 📌 Current Focus
+
 - Code Architectures
 - Machine Learning and Artificial Intelligence
 - Automating workflows on **macOS with Python & Automator**  
