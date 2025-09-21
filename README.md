@@ -18,9 +18,7 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
 
 
 
-<table border="0" style="border: none; border-collapse: collapse; width: 100%;">
-  <tr border="0" style="border: none;">
-    <td style="border: none; padding: 0 15px; vertical-align: top; width: 50%;">
+
 
 ## ðŸ”§ Tech Stack
 - **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .NET  
@@ -30,9 +28,6 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 - **Operating Systems & Servers:** Windows, Linux, IBM AIX  
 
-</td>
-    <td style="border: none; padding: 0 15px; vertical-align: top; width: 50%;">
-
 ## ðŸ“Œ Current Focus
 - Code Architectures  
 - Machine Learning and Artificial Intelligence  
@@ -40,9 +35,8 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
 - Designing **relational databases** and optimization models  
 - Building **data-driven applications** with Python and SQL  
 
-</td>
-  </tr>
-</table>
+
+
 
 
 
