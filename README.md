@@ -18,32 +18,33 @@ Background with <strong>startups and multinational companies</strong>, where I�
 
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<div>
+<h2>🔧 Tech Stack</h2>
 
-## 🔧 Tech Stack
-- **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .Net  
-- **Frameworks & Tools:** Spring Boot, Apache Kafka, RabbitMq, Android, Django, Flask  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLLite  
+- **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .NET  
+- **Frameworks & Tools:** Spring Boot, Apache Kafka, RabbitMQ, Android, Django, Flask  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite  
 - **Data & Analytics:** Power BI, Tableau, Pandas, NumPy, OR-Tools  
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
-- **Operating Systems & Servers:** Windws, Linux, IBM AIX  
+- **Operating Systems & Servers:** Windows, Linux, IBM AIX  
 
-</div>
+    </td>
+    <td width="50%" valign="top">
 
-<div>
+<h2>📌 Current Focus</h2>
 
-## 📌 Current Focus
 - Code Architectures  
 - Machine Learning and Artificial Intelligence  
-- Automating workflows on **macOS with Python & Automator**  
-- Designing **relational databases** and optimization models  
-- Building **data-driven applications** with Python and SQL  
+- Automating workflows on <strong>macOS with Python & Automator</strong>  
+- Designing <strong>relational databases</strong> and optimization models  
+- Building <strong>data-driven applications</strong> with Python and SQL  
 
-</div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 
 
