@@ -34,15 +34,30 @@ Background with <strong>startups and multinational companies</strong>, where I�
 - Designing **relational databases** and optimization models  
 - Building **data-driven applications** with Python and SQL  
 
+
+## [📂 Projects](https://github.com/hilfritz)
+<ul>
+  <li> <a href="https://github.com/hilfritz/ottawa-airbnb-cluster-analysis"> Ottawa Airbnb Analysis</li>
+  <li> <a href="https://github.com/hilfritz/fan-replacement-prescriptive-analysis-montecarlo-simulation"> Monte Carlo Simulation for Fan Replacement </li>
+  <li> <a href="https://github.com/hilfritz/SimpleGenericsMvpJava"> Java Generics Simple Use </li>
+  <li> <a href="https://github.com/hilfritz/Android-HBMvp"> MVP Architecture implementation using Java in Android </li>
+  <li> <a href="https://github.com/hilfritz/AndroidKotlin-LogSimply"> Logging Mechanism Library </li>
+  <li> <a href="https://github.com/hilfritz/AndroidNotificationSample"> Simple Notification Implementation in Android </li>
+  <li> </li>
+  <li></li>
+  <li></li>
+</ul>
+
 ## 🌍 Beyond Code
 - Based in **Ontario, Canada** 🇨🇦  
 - Passionate about **mentoring junior developers**  
 - Love solving **system design challenges**  
-- Exploring **AI, optimization, and automation** in my free time  
+- Exploring **AI, optimization, and automation** in my free time
+
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/hilfritzcamallere/)  
-- [GitHub Projects](https://github.com/hilfritz)  
+
 
 ---
 
