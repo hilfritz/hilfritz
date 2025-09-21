@@ -18,12 +18,11 @@ Background with <strong>startups and multinational companies</strong>, where I�
 
 
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<table border="0" style="border: none; border-collapse: collapse; width: 100%;">
+  <tr border="0" style="border: none;">
+    <td style="border: none; padding: 0 15px; vertical-align: top; width: 50%;">
 
-<h2>🔧 Tech Stack</h2>
-
+## 🔧 Tech Stack
 - **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .NET  
 - **Frameworks & Tools:** Spring Boot, Apache Kafka, RabbitMQ, Android, Django, Flask  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite  
@@ -31,20 +30,21 @@ Background with <strong>startups and multinational companies</strong>, where I�
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 - **Operating Systems & Servers:** Windows, Linux, IBM AIX  
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+    <td style="border: none; padding: 0 15px; vertical-align: top; width: 50%;">
 
-<h2>📌 Current Focus</h2>
-
+## 📌 Current Focus
 - Code Architectures  
 - Machine Learning and Artificial Intelligence  
-- Automating workflows on <strong>macOS with Python & Automator</strong>  
-- Designing <strong>relational databases</strong> and optimization models  
-- Building <strong>data-driven applications</strong> with Python and SQL  
+- Automating workflows on **macOS with Python & Automator**  
+- Designing **relational databases** and optimization models  
+- Building **data-driven applications** with Python and SQL  
 
-    </td>
+</td>
   </tr>
 </table>
+
+
 
 
 
