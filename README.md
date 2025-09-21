@@ -38,14 +38,14 @@ Background with <strong>startups and multinational companies</strong>, where I�
 ## [📂 Projects](https://github.com/hilfritz)
 <ul>
   <li> <a href="https://github.com/hilfritz/ottawa-airbnb-cluster-analysis"> Ottawa Airbnb Analysis</li>
+  <li> <a href="https://github.com/hilfritz/AndroidTextScriptView"> TextScriptView library in Android </li>
   <li> <a href="https://github.com/hilfritz/fan-replacement-prescriptive-analysis-montecarlo-simulation"> Monte Carlo Simulation for Fan Replacement </li>
+  <li> <a href="https://github.com/hilfritz/AndroidAutoCompleteHistoryTextView"> AutoComplete Text Input Library in Android </li>  
   <li> <a href="https://github.com/hilfritz/SimpleGenericsMvpJava"> Java Generics Simple Use </li>
   <li> <a href="https://github.com/hilfritz/Android-HBMvp"> MVP Architecture implementation using Java in Android </li>
   <li> <a href="https://github.com/hilfritz/AndroidKotlin-LogSimply"> Logging Mechanism Library </li>
   <li> <a href="https://github.com/hilfritz/AndroidNotificationSample"> Simple Notification Implementation in Android </li>
-  <li> </li>
-  <li></li>
-  <li></li>
+  
 </ul>
 
 ## 🌍 Beyond Code
