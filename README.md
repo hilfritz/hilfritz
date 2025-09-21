@@ -13,26 +13,40 @@
 </div>
 <p>
 IT professional with 10+ years’ experience in computers, servers, and full-cycle software development. Skilled in programming, data analytics, system/server administration/maintenence, and performance optimization. </p>
-
-
 <p>
 Background with <strong>startups and multinational companies</strong>, where I’ve created and maintained legacy computer/software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges. </p>
 
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div>
+
 ## 🔧 Tech Stack
-- **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .Net
-- **Frameworks & Tools:** Spring Boot, Apache Kafka, RabbitMq, Android, Django, Flask
+- **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .Net  
+- **Frameworks & Tools:** Spring Boot, Apache Kafka, RabbitMq, Android, Django, Flask  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLLite  
 - **Data & Analytics:** Power BI, Tableau, Pandas, NumPy, OR-Tools  
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions
-- **Operating Systems & Servers:** Windws, Linux, IBM AIX
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions  
+- **Operating Systems & Servers:** Windws, Linux, IBM AIX  
+
+</div>
+
+<div>
 
 ## 📌 Current Focus
-
-- Code Architectures
-- Machine Learning and Artificial Intelligence
+- Code Architectures  
+- Machine Learning and Artificial Intelligence  
 - Automating workflows on **macOS with Python & Automator**  
 - Designing **relational databases** and optimization models  
 - Building **data-driven applications** with Python and SQL  
+
+</div>
+
+</div>
+
+
+
 
 
 ## [📂 Projects](https://github.com/hilfritz)
@@ -44,7 +58,7 @@ Background with <strong>startups and multinational companies</strong>, where I�
   <li> <a href="https://github.com/hilfritz/SimpleGenericsMvpJava"> Java Generics Simple Use </li>
   <li> <a href="https://github.com/hilfritz/Android-HBMvp"> MVP Architecture implementation using Java in Android </li>
   <li> <a href="https://github.com/hilfritz/AndroidKotlin-LogSimply"> Logging Mechanism Library </li>
-  <li> <a href="https://github.com/hilfritz/AndroidNotificationSample"> Simple Notification Implementation in Android </li>
+  <li> <a href="https://github.com/hilfritz/AndroidNotificationSample">  Notification Implementation in Android </li>
   
 </ul>
 
