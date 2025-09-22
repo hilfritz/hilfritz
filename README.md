@@ -16,18 +16,6 @@ IT professional with 10+ years’ experience in computers, servers, and full-cyc
 <p>
 Background with <strong>startups and multinational companies</strong>, where I’ve created and maintained legacy computer/software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges. </p>
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilfritz&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=hilfritz&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-![GitHub Snake](https://github.com/hilfritz/hilfritz/blob/output/github-contribution-grid-snake.svg)
-
-## 🐍 Contribution Snake
-
-![Snake Light](https://raw.githubusercontent.com/hilfritz/hilfritz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake Dark](https://raw.githubusercontent.com/hilfritz/hilfritz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
 ## 🔧 Tech Stack
 - **Languages:** Java, Python, JavaScript/Node.js, SQL, NoSQL, C++, C#, .NET  
 - **Frameworks & Tools:** Spring Boot, Apache Kafka, RabbitMQ, Android, Django, Flask  
@@ -79,3 +67,12 @@ Background with <strong>startups and multinational companies</strong>, where I�
 ---
 
 ✨ _“I enjoy building reliable systems that empower people—whether that’s a production-scale backend or an automated script that saves hours of manual work. ”_  
+
+
+
+
+## Stats 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilfritz&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=hilfritz&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+## 🐍 Contribution Snake
+![Snake Dark](https://raw.githubusercontent.com/hilfritz/hilfritz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
