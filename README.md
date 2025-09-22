@@ -18,6 +18,14 @@ Background with <strong>startups and multinational companies</strong>, where I�
 
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilfritz&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=hilfritz&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Snake](https://github.com/hilfritz/hilfritz/blob/output/github-contribution-grid-snake.svg)
+
+## 🐍 Contribution Snake
+
+![Snake Light](https://raw.githubusercontent.com/hilfritz/hilfritz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake Dark](https://raw.githubusercontent.com/hilfritz/hilfritz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 ## 🔧 Tech Stack
