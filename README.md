@@ -74,5 +74,7 @@ Background with <strong>startups and multinational companies</strong>, where I‚Ä
 ## Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilfritz&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=hilfritz&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilfritz&layout=compact&theme=dark)
+
 ## üêç Contribution Snake
 ![Snake Dark](https://raw.githubusercontent.com/hilfritz/hilfritz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
