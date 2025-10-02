@@ -82,4 +82,5 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
 
 
 ## ğŸ Contribution Snake
+![Snake Light](https://raw.githubusercontent.com/hilfritz/hilfritz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake Dark](https://raw.githubusercontent.com/hilfritz/hilfritz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
