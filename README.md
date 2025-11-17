@@ -44,13 +44,15 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
 > ðŸ”’ Please note: My GitHub showcases selected personal and academic projects. Professional enterprise and government work is not included here due to confidentiality.
 
 <ul>
+  
+  <li> <a href="https://github.com/hilfritz/ottawa-airbnb-cluster-analysis"> Data Analysis - Ottawa Airbnb Analysis</li>
+  <li> <a href="https://github.com/hilfritz/fan-replacement-prescriptive-analysis-montecarlo-simulation"> Data Analysis - Monte Carlo Simulation for Fan Replacement </li>
   <li> <a href="https://github.com/hilfritz/Android-BLE"> Android Bluetooth Low Energy project</li>
 
-  <li> <a href="https://github.com/hilfritz/python-simple-local-nas-file-manager"> Simple Local NAS Web App</li>
-  <li> <a href="https://github.com/hilfritz/ottawa-airbnb-cluster-analysis"> Ottawa Airbnb Analysis</li>
     
+  <li> <a href="https://github.com/hilfritz/python-simple-local-nas-file-manager"> Simple Local NAS Web App</li>
   <li> <a href="https://github.com/hilfritz/AndroidTextScriptView"> TextScriptView library in Android </li>
-  <li> <a href="https://github.com/hilfritz/fan-replacement-prescriptive-analysis-montecarlo-simulation"> Monte Carlo Simulation for Fan Replacement </li>
+  
   <li> <a href="https://github.com/hilfritz/AndroidAutoCompleteHistoryTextView"> AutoComplete Text Input Library in Android </li>  
   <li> <a href="https://github.com/hilfritz/SimpleGenericsMvpJava"> Java Generics Simple Use </li>
   <li> <a href="https://github.com/hilfritz/Android-HBMvp"> MVP Architecture implementation using Java in Android </li>
