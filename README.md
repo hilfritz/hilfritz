@@ -44,6 +44,7 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
 > ðŸ”’ Please note: My GitHub showcases selected personal and academic projects. Professional enterprise and government work is not included here due to confidentiality.
 
 <ul>
+  <li> <a href="https://github.com/hilfritz/Android-BLE"> Android Bluetooth Low Energy project</li>
 
   <li> <a href="https://github.com/hilfritz/python-simple-local-nas-file-manager"> Simple Local NAS Web App</li>
   <li> <a href="https://github.com/hilfritz/ottawa-airbnb-cluster-analysis"> Ottawa Airbnb Analysis</li>
