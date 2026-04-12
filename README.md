@@ -44,7 +44,11 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
 > ðŸ”’ Please note: My GitHub showcases selected personal and academic projects. Professional enterprise and government work is not included here due to confidentiality.
 
 <ul>
-  
+  <li>
+    Data Analysis - Traffic Collision Dashboard Analysis:
+    <a href="https://github.com/hilfritz/TrafficCollisionAnalysis">GitHub</a> |
+    <a href="https://collisiondashboard.streamlit.app/">Live Demo</a>
+  </li>
   <li> <a href="https://github.com/hilfritz/ottawa-airbnb-cluster-analysis"> Data Analysis - Ottawa Airbnb Analysis</li>
   <li> <a href="https://github.com/hilfritz/fan-replacement-prescriptive-analysis-montecarlo-simulation"> Data Analysis - Monte Carlo Simulation for Fan Replacement </li>
   <li> <a href="https://github.com/hilfritz/Android-BLE"> Android Bluetooth Low Energy project</li>
