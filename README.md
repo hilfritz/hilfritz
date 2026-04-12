@@ -49,7 +49,12 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
     <a href="https://github.com/hilfritz/TrafficCollisionAnalysis">GitHub</a> |
     <a href="https://collisiondashboard.streamlit.app/">Live Demo</a>
   </li>
-  <li> <a href="https://github.com/hilfritz/ottawa-airbnb-cluster-analysis"> Data Analysis - Ottawa Airbnb Analysis</li>
+  <li>
+    Data Analysis - Ottawa Airbnb Cluster Analysis:
+    <a href="https://github.com/hilfritz/ottawa-airbnb-cluster-analysis">GitHub</a> |
+    <a href="https://airbnbclustering.streamlit.app/">Live Demo</a>
+  </li>
+    
   <li> <a href="https://github.com/hilfritz/fan-replacement-prescriptive-analysis-montecarlo-simulation"> Data Analysis - Monte Carlo Simulation for Fan Replacement </li>
   <li> <a href="https://github.com/hilfritz/Android-BLE"> Android Bluetooth Low Energy project</li>
 
