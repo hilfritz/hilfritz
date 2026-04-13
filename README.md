@@ -12,7 +12,7 @@
   </div>
 </div>
 <p>
-IT professional with 10+ years’ experience in computers, servers, and full-cycle software development. Skilled in programming, data analytics, system/server administration/maintenence, and performance optimization. </p>
+IT professional with 10+ years’ experience in computers, servers, and full-cycle software development. Skilled in programming, software engineering/development, data analytics, system/server administration/maintenence, and performance optimization. </p>
 <p>
 Background with <strong>startups and multinational companies</strong>, where I’ve created and maintained legacy computer/software systems and delivered high-impact solutions while mentoring teams and solving complex technical challenges. </p>
 
