@@ -92,8 +92,9 @@ Background with <strong>startups and multinational companies</strong>, where I‚Ä
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilfritz&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=hilfritz&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilfritz&layout=compact&theme=dark)-->
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hilfritz&theme=github_dark)
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hilfritz&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hilfritz&theme=github_dark)
+
 
 
 ## üêç Contribution Snake
