@@ -40,7 +40,7 @@ Background with <strong>startups and multinational companies</strong>, where I�
 
 
 
-## [📂 Projects](https://github.com/hilfritz)
+## [📂 Project Repos in Github](https://github.com/hilfritz)
 
 <ul>
   <li>
