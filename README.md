@@ -41,7 +41,6 @@ Background with <strong>startups and multinational companies</strong>, where I�
 
 
 ## [📂 Projects](https://github.com/hilfritz)
-> 🔒 Please note: My GitHub showcases selected personal and academic projects. Professional enterprise and government work is not included here due to confidentiality.
 
 <ul>
   <li>
