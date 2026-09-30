@@ -44,6 +44,11 @@ Background with <strong>startups and multinational companies</strong>, where Iâ€
 
 <ul>
   <li>
+    Machine Vision - TimberSight Wood Defect Detection:
+    <a href="https://github.com/hilfritz/timbersight-wood-defect-detection">GitHub</a> |
+    <a href="https://github.com/hilfritz/timbersight-wood-defect-detection/raw/refs/heads/main/demo_images/demo_timbersight.mp4">Demo</a>
+  </li>
+  <li>
     Data Analysis - Traffic Collision Dashboard Analysis:
     <a href="https://github.com/hilfritz/TrafficCollisionAnalysis">GitHub</a> |
     <a href="https://collisiondashboard.streamlit.app/">Live Demo</a>
